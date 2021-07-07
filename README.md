@@ -6,6 +6,4 @@
 - 🕸 I’m currently learning web development
 - 👓 Curiosity: game lover, technology enthusiast, gastronomy lover, but I don't cook, just tasting.
 
-<div style="margin: 25px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=camilomenucheli&show_icons=true&count_private=true&theme=dark" />
-</div>
+![Camilomenucheli's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilomenucheli&show_icons=true&count_private=true&theme=dark)
